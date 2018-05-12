@@ -1,0 +1,26 @@
+_repo: Caught-in-a-Trap_34247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+title: Caught in a Trap
+url: http://www.gutenberg.org/ebooks/34247
